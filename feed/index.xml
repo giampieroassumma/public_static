@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Giampiero Assumma</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Un nuovo sito targato WordPress</description>
+	<lastBuildDate>Thu, 17 Aug 2023 08:38:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Roxane</title>
+		<link>/roxane/</link>
+		
+		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
+		<pubDate>Tue, 23 Jan 2018 15:43:10 +0000</pubDate>
+				<category><![CDATA[Portraits]]></category>
+		<guid isPermaLink="false">/?p=743</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Homeless homeland</title>
+		<link>/homeless-homeland/</link>
+		
+		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 08:33:25 +0000</pubDate>
+				<category><![CDATA[Senza categoria]]></category>
+		<guid isPermaLink="false">/?p=858</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img decoding="async" fetchpriority="high" width="2149" height="2082" src="/wpress/wp-content/uploads/2023/08/2018_Budapest_homeless_P1230471c.jpg" alt="" class="wp-image-859" srcset="/wpress/wp-content/uploads/2023/08/2018_Budapest_homeless_P1230471c.jpg 2149w, /wpress/wp-content/uploads/2023/08/2018_Budapest_homeless_P1230471c-1000x969.jpg 1000w, /wpress/wp-content/uploads/2023/08/2018_Budapest_homeless_P1230471c-768x744.jpg 768w, /wpress/wp-content/uploads/2023/08/2018_Budapest_homeless_P1230471c-1200x1163.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure>
+
+
+
+<ul class="wp-block-gallery columns-3 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><li class="blocks-gallery-item"><figure><img decoding="async" width="2200" height="1251" src="/wpress/wp-content/uploads/2023/08/2018_Budapest_homeless_couple_P1450446-2200x1251.jpg" alt="" data-id="860" data-link="/?attachment_id=860" class="wp-image-860" srcset="/wpress/wp-content/uploads/2023/08/2018_Budapest_homeless_couple_P1450446-2200x1251.jpg 2200w, /wpress/wp-content/uploads/2023/08/2018_Budapest_homeless_couple_P1450446-1000x569.jpg 1000w, /wpress/wp-content/uploads/2023/08/2018_Budapest_homeless_couple_P1450446-768x437.jpg 768w, /wpress/wp-content/uploads/2023/08/2018_Budapest_homeless_couple_P1450446-1200x683.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1290" height="2200" src="/wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_03-1290x2200.jpg" alt="" data-id="861" data-link="/?attachment_id=861" class="wp-image-861" srcset="/wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_03-1290x2200.jpg 1290w, /wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_03-586x1000.jpg 586w, /wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_03-768x1310.jpg 768w, /wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_03-1200x2047.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="2200" height="1919" src="/wpress/wp-content/uploads/2023/08/P3210932bn-2200x1919.jpg" alt="" data-id="862" data-link="/?attachment_id=862" class="wp-image-862" srcset="/wpress/wp-content/uploads/2023/08/P3210932bn-2200x1919.jpg 2200w, /wpress/wp-content/uploads/2023/08/P3210932bn-1000x872.jpg 1000w, /wpress/wp-content/uploads/2023/08/P3210932bn-768x670.jpg 768w, /wpress/wp-content/uploads/2023/08/P3210932bn-1200x1047.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="2170" height="2200" src="/wpress/wp-content/uploads/2023/08/homeless_3_35x35cm_P2110951bn-2170x2200.jpg" alt="" data-id="863" data-link="/?attachment_id=863" class="wp-image-863" srcset="/wpress/wp-content/uploads/2023/08/homeless_3_35x35cm_P2110951bn-2170x2200.jpg 2170w, /wpress/wp-content/uploads/2023/08/homeless_3_35x35cm_P2110951bn-986x1000.jpg 986w, /wpress/wp-content/uploads/2023/08/homeless_3_35x35cm_P2110951bn-768x779.jpg 768w, /wpress/wp-content/uploads/2023/08/homeless_3_35x35cm_P2110951bn-1200x1217.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="2200" height="1945" src="/wpress/wp-content/uploads/2023/08/homeless_4_39x35cm_P1510587bn-2200x1945.jpg" alt="" data-id="864" data-link="/?attachment_id=864" class="wp-image-864" srcset="/wpress/wp-content/uploads/2023/08/homeless_4_39x35cm_P1510587bn-2200x1945.jpg 2200w, /wpress/wp-content/uploads/2023/08/homeless_4_39x35cm_P1510587bn-1000x884.jpg 1000w, /wpress/wp-content/uploads/2023/08/homeless_4_39x35cm_P1510587bn-768x679.jpg 768w, /wpress/wp-content/uploads/2023/08/homeless_4_39x35cm_P1510587bn-1200x1061.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="2200" height="1581" src="/wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_02-2200x1581.jpg" alt="" data-id="865" data-link="/?attachment_id=865" class="wp-image-865" srcset="/wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_02-2200x1581.jpg 2200w, /wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_02-1000x719.jpg 1000w, /wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_02-768x552.jpg 768w, /wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_02-1200x862.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="2200" height="1912" src="/wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_09-2200x1912.jpg" alt="" data-id="866" data-link="/?attachment_id=866" class="wp-image-866" srcset="/wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_09-2200x1912.jpg 2200w, /wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_09-1000x869.jpg 1000w, /wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_09-768x667.jpg 768w, /wpress/wp-content/uploads/2023/08/Being-homeless-in-Budapest_09-1200x1043.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></figure></li></ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mauerpark</title>
+		<link>/mauerpark/</link>
+		
+		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
+		<pubDate>Wed, 20 Sep 2017 13:31:19 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/wpress/?p=470</guid>
+
+					<description><![CDATA[Formerly defined as ‘poor but sexy’, Berlin has become one of world’s most loved capitals with its subculture and its eccentric, creative, and talented outsiders. Mauerpark is one if not “the” Berlin’s most-visited Sunday hang-out. It is the perfect place to observe the hedonistic side and the persistent anarchist character of the city. The alternative scene &#8230; <a href="/mauerpark/" class="more-link">Continue reading<span class="screen-reader-text"> "Mauerpark"</span></a>]]></description>
+										<content:encoded><![CDATA[<div class="page" title="Page 5">
+<div class="layoutArea">
+<div class="column">
+<p>Formerly defined as ‘poor but sexy’, Berlin has become one of world’s most loved capitals with its subculture and its eccentric, creative, and talented outsiders. Mauerpark is one if not “the” Berlin’s most-visited Sunday hang-out. It is the perfect place to observe the hedonistic side and the persistent anarchist character of the city. The alternative scene that until a few years ago used to live and prosper in Prenzlauer Berg has been driven out by gentrification and the rising costs of living, and the park is its last remaining stronghold.</p>
+<div class="page" title="Page 7">
+<div class="layoutArea">
+<div class="column">
+<p>On Sundays from spring until autumn the park is packed with a crowd of curious people searching for any kind of amusements.The popularity of the Mauerpark also results from the karaoke sessions that take place at the amphitheater. Mauerpark translates as “wall park” in English. The reason for the name is a stretch of the original Berlin Wall which now serves as a constantly evolving canvas for spraycan artists and a colourful backdrop for the hive of activity that takes place here each weekend. It’s ironic that in the old divided city this space used to be part of the “death strip”, a no-man’s land between the east and west that was dotted with guard towers, lit up with bright lights and patrolled by armed soldiers with dogs.<br />
+Today Mauerpark is a park without walls or boundaries which overcomes social barriers and unites people from different backgrounds and origins.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Napoli</title>
+		<link>/napoli/</link>
+		
+		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
+		<pubDate>Tue, 21 Nov 2017 10:18:26 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/wpress/?p=650</guid>
+
+					<description><![CDATA[Confronted with Naples, you are tossed into a world that contrasts crushingly with your fate and your ideas of life. If you arrive in the afternoon, it is likely that you will find yourself, whether in a taxi or a bus, surrounded by a complete and uncontrollable chaos of jalopies, most of which are older, &#8230; <a href="/napoli/" class="more-link">Continue reading<span class="screen-reader-text"> "Napoli"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Confronted with Naples, you are tossed into a world that contrasts crushingly with your fate and your ideas of life. If you arrive in the afternoon, it is likely that you will find yourself, whether in a taxi or a bus, surrounded by a complete and uncontrollable chaos of jalopies, most of which are older, slashed-up vehicles, without any headlights or bumpers, but always with functioning horns. Here you will discover a new death-defying life stance. If you choose to go on foot, you will wander in confusion and fright among the dark, damp alleyways, ensnarled in the mythic horror of Naples with a hoarse voice ringing in your ears: “Stay away from the shootings. Naples is a battlefield.” Those who think they can evade all this by taking the Metro surely should have been initiated at a center for Transcendental Meditation far off in a desert. Here Time matters not a wit.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Contemporary Light in Berlin</title>
+		<link>/contemporary-light-in-berlin/</link>
+		
+		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
+		<pubDate>Mon, 30 Oct 2017 17:08:56 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/wpress/?p=588</guid>
+
+					<description><![CDATA[The image has to create its own world, hopefully self contained, an analog of reality, not a mirror of it.” Philip-Lorca di Corcia Berlin is probably one the most under spot city in the world since several years. The reason of such big interest may result from its recent past that it has been pretty &#8230; <a href="/contemporary-light-in-berlin/" class="more-link">Continue reading<span class="screen-reader-text"> "Contemporary Light in Berlin"</span></a>]]></description>
+										<content:encoded><![CDATA[<p style="text-align: left;"><em>The image has to create its own world, hopefully self contained, an analog of reality, not a mirror of it.”<br />
+</em>Philip-Lorca di Corcia</p>
+<p>Berlin is probably one the most under spot city in the world since several years. The reason of such big interest may result from its recent past that it has been pretty peculiar: the story of the Mauer,a wall that after the fall turned into a long scar, opening up two different cities/souls.<br />
+A mix of cultures, attitudes, tendencies.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Budapest</title>
+		<link>/budapest/</link>
+		
+		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
+		<pubDate>Mon, 30 Oct 2017 15:15:38 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/wpress/?p=528</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Lower World-Exhibition in Malmö</title>
+		<link>/the-lower-world-exhibition-in-malmo/</link>
+		
+		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
+		<pubDate>Tue, 21 Nov 2017 09:56:32 +0000</pubDate>
+				<category><![CDATA[Projects]]></category>
+		<guid isPermaLink="false">/wpress/?p=641</guid>
+
+					<description><![CDATA[THE LOWER WORLD at Gert-Olle Göransson&#8217;s Galleri Ping-Pong, Stora Nygatan 4, Malmö &#8211; Until Dec 2, Monday-Friday 12-18 Sat 12-16]]></description>
+										<content:encoded><![CDATA[<p>THE LOWER WORLD at Gert-Olle Göransson&#8217;s Galleri Ping-Pong,<br />
+Stora Nygatan 4, Malmö &#8211; Until Dec 2, Monday-Friday 12-18 Sat 12-16</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Lower World</title>
+		<link>/the-lower-world/</link>
+		
+		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
+		<pubDate>Mon, 26 Jun 2017 17:32:13 +0000</pubDate>
+				<category><![CDATA[Works]]></category>
+		<guid isPermaLink="false">/wpress/?p=341</guid>
+
+					<description><![CDATA[“The Lower World is the title of my long term (2001-2014) photographic project into the dimension of mental illness and within the context of the last fully functioning six criminal lunatic asylums in Italy. Those facilities were eventually shut down in 2015.The work represents an insight into the inmates’ lives and the reality of those asylums &#8230; <a href="/the-lower-world/" class="more-link">Continue reading<span class="screen-reader-text"> "The Lower World"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>“<em>The Lower World</em> is the title of my long term (2001-2014) photographic project into the dimension of mental illness and within the context of the last fully functioning six criminal lunatic asylums in Italy. Those facilities were eventually shut down in 2015.The work represents an insight into the inmates’ lives and the reality of those asylums .The photos display a certain narrative style, aiming to make mental issues a visually accessible condition as well as offering a constructive contribution to the debate on psychiatric institutions and social exclusion.”</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bodybuilders</title>
+		<link>/bodybuilders/</link>
+		
+		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2017 16:14:54 +0000</pubDate>
+				<category><![CDATA[Works]]></category>
+		<guid isPermaLink="false">/wpress/?p=366</guid>
+
+					<description><![CDATA[“Bodies chiselled directly from sheer muscle. Premature écorchés. Giants with delicate skin. Bodybuilders, who have been, for a long time now, drawing their strength from the physical performances inherent to athletes, display the image of a Western man half-way between ancient Hercules and modern anatomical models. They show what they have under their skin, their muscles and veins, but nothing more. They &#8230; <a href="/bodybuilders/" class="more-link">Continue reading<span class="screen-reader-text"> "Bodybuilders"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>“Bodies chiselled directly from sheer muscle. Premature écorchés. Giants with delicate skin. Bodybuilders, who have been, for a long time now, drawing their strength from the physical performances inherent to athletes, display the image of a Western man half-way between ancient Hercules and modern anatomical models. They show what they have under their skin, their muscles and veins, but nothing more. They want to prove and show what they are able to turn themselves into: deliberately enlarged bodies. Competitions are therefore as many occasions to compare their mussels, to assess, observe and evaluate each other. These competitions are very peculiar shows that celebrate the cult of the body, continuously staged for the public eye. Behind the scene, things are a little different; they go back to speak and move as anyone else. They come back to life. Thus, what happened in the meantime? “</p>
+<p>Seloua Luste Bulbina</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lourdes</title>
+		<link>/396-2/</link>
+		
+		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2017 15:24:01 +0000</pubDate>
+				<category><![CDATA[Works]]></category>
+		<guid isPermaLink="false">/wpress/?p=396</guid>
+
+					<description><![CDATA[Lourdes is a special place where people arrive to, not an end in itself, but a gate to a new life. The most intimate hopes which result from invisible reasons, the sense of belonging to an absolute, the perception of a universal correspondence, drag them to this gate, with their faith, or with the « inescapable &#8230; <a href="/396-2/" class="more-link">Continue reading<span class="screen-reader-text"> "Lourdes"</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Lourdes is a special place where people arrive to, not an end in itself, but a gate to a new life.</p>
+<p>The most intimate hopes which result from invisible reasons, the sense of belonging to an absolute, the perception of a universal correspondence, drag them to this gate, with their faith, or with the « inescapable irrationality of that faith ».</p>
+<p>An inexplicable tension that wants to rejoin the Mystery and that belongs to the dominion of the incredible, of the desperate, of the painful, of the divine. Lourdes is the extreme expression of that desire, a threshold.</p>
+<p>Photography is an attempt to explore the unknown, a possible way to reconnect to inspiration, to the Mystery.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
