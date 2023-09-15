@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Abstract &#8211; Giampiero Assumma</title>
-	<atom:link href="/blog_categories/abstract/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Un nuovo sito targato WordPress</description>
 	<lastBuildDate>Thu, 22 Oct 2020 11:23:02 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	
 	<item>
 		<title>Clouds</title>
-		<link>/blog/clouds/</link>
+		<link>./../../../blog/clouds/index.html</link>
 		
 		<dc:creator><![CDATA[Manuela Luise]]></dc:creator>
 		<pubDate>Tue, 23 Jan 2018 15:49:33 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=blog#038;p=753</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=blog#038;p=753</guid>
 
-					<description><![CDATA[&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; Clouds I’d have to be really quick to describe clouds &#8211; a split second’s enough for them to start being something else. Their trademark: they don’t repeat a single shape, shade, pose, arrangement. Unburdened by memory of any kind, they float easily over the facts. What on earth could they bear witness to? They &#8230; <a href="/blog/clouds/" class="more-link">Continue reading<span class="screen-reader-text"> "Clouds"</span></a>]]></description>
+					<description><![CDATA[&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; Clouds I’d have to be really quick to describe clouds &#8211; a split second’s enough for them to start being something else. Their trademark: they don’t repeat a single shape, shade, pose, arrangement. Unburdened by memory of any kind, they float easily over the facts. What on earth could they bear witness to? They &#8230; <a href="./../../../blog/clouds/index.html" class="more-link">Continue reading<span class="screen-reader-text"> "Clouds"</span></a>]]></description>
 										<content:encoded><![CDATA[<p style="text-align: left;">&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;<br />
 <strong>Clouds</strong></p>
 <p>I’d have to be really quick<br />

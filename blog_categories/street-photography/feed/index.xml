@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Street Photography &#8211; Giampiero Assumma</title>
-	<atom:link href="/blog_categories/street-photography/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Un nuovo sito targato WordPress</description>
 	<lastBuildDate>Thu, 17 Aug 2023 08:38:44 +0000</lastBuildDate>
 	<language>en-US</language>
